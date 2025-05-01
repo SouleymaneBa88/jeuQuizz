@@ -29,26 +29,26 @@ const questions = [
       choix: ["HTML", "CSS", "PHP", "Bootstrap"],
       answer: "PHP"
     },
-    {
-      question: "Quelle est la bonne syntaxe pour un commentaire en JavaScript ?",
-      choix: ["<!-- Ceci est un commentaire -->", "// Ceci est un commentaire", "/* Ceci est un commentaire */", "# Ceci est un commentaire"],
-      answer: "// Ceci est un commentaire"
-    },
-    {
-      question: "Quel attribut HTML est utilisé pour spécifier une feuille de style ?",
-      choix: ["style", "src", "rel", "href"],
-      answer: "rel"
-    },
+    // {
+    //   question: "Quelle est la bonne syntaxe pour un commentaire en JavaScript ?",
+    //   choix: ["<!-- Ceci est un commentaire -->", "// Ceci est un commentaire", "/* Ceci est un commentaire */", "# Ceci est un commentaire"],
+    //   answer: "// Ceci est un commentaire"
+    // },
+    // {
+    //   question: "Quel attribut HTML est utilisé pour spécifier une feuille de style ?",
+    //   choix: ["style", "src", "rel", "href"],
+    //   answer: "rel"
+    // },
     {
       question: "Quelle méthode JavaScript permet d’ajouter un élément à un tableau ?",
       choix: ["add()", "append()", "push()", "insert()"],
       answer: "push()"
     },
-    {
-      question: "Quel élément HTML contient les métadonnées de la page ?",
-      choix: ["<head>", "<body>", "<meta>", "<header>"],
-      answer: "<head>"
-    }
+    // {
+    //   question: "Quel élément HTML contient les métadonnées de la page ?",
+    //   choix: ["<head>", "<body>", "<meta>", "<header>"],
+    //   answer: "<head>"
+    // }
   ];
   
   let index = 0;
